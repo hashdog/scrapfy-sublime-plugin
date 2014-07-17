@@ -20,7 +20,7 @@ Clone this repo into your Sublime Text Packages directory
 
 ###Mac
     cd ~/"Library/Application Support/Sublime Text 3/Packages/"
-    git clone git://github.com/Paaskehare/scrapfy-sublime-plugin.git
+    git clone git://github.com/hashdog/scrapfy-sublime-plugin.git
 
 Usage
 -----
