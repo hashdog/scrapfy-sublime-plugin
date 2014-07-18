@@ -38,5 +38,4 @@ class ScrapfyCommand(sublime_plugin.TextCommand):
         connection.request('POST', '/scraps', json.dumps(body), {'Content-Type': 'application/json'})
         response = json.loads(connection.getresponse().read().decode())
         sublime.set_clipboard(response["url"])
-        sublime.status_message("SCRAPfy: " + response["url"])
-
+        sublime.status_message("SCRAPfy's URL has been copied to your clipboard: " + response["url"])
