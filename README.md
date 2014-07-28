@@ -25,6 +25,6 @@ Clone this repo into your Sublime Text Packages directory
 Usage
 -----
 
-Select some text (or don't) and hit `ctrl + alt + s` and afterwards `ctrl + v` - and you're good to go!
+Select some text (or don't) and hit `ctrl + alt + s` for mac or `ctrl + alt + shift + s` for linux, and afterwards `ctrl + v` - and you're good to go!
 
 *HashDog Team - http://www.hashdog.com - http://www.hashdog.io*
