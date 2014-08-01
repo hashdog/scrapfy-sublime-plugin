@@ -12,8 +12,13 @@ Sublime SCRAPfy Plugin supports both [Sublime Text 2](http://www.sublimetext.com
 Installation
 ------------
 
+###Via Package Control
+Just search "SCRAPfy" and install it.
+
+###Via GIT
 Clone this repo into your Sublime Text Packages directory
 (replace 3 with 2 if you use sublime text 2)
+
 ###Linux
     cd ~/.config/sublime-text-3/Packages/
     git clone git://github.com/hashdog/scrapfy-sublime-plugin.git
